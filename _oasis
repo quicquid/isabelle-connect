@@ -2,7 +2,7 @@ OASISFormat: 0.4
 Name:        Isabelle Test Connector
 Version:     0.1
 Synopsis:    V2 of tlapm
-Authors:     Martin Riener
+Authors:     Martin
 License:     BSD-3-clause
 Plugins:     META (0.3)
 AlphaFeatures: ocamlbuild_more_args
@@ -15,5 +15,4 @@ Executable tlapm
                 unix,
                 sexplib,
                 result
-
 
