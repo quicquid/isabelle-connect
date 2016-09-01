@@ -12,4 +12,3 @@ let read_file name =
   let s = String.create n in
   let _ = really_input ch s 0 n in
   let _ = close_in ch in s
-
